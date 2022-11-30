@@ -4,8 +4,8 @@ module.exports = {
 	reactStrictMode: true,
 
 	images: {
-		loader: 'akamai',
-		path: '',
+		"loader": "akamai",
+  "path": ""
 	},
 	trailingSlash: true,
 };
