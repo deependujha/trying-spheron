@@ -20,7 +20,7 @@ export default function Home() {
 				<h2 className={styles.description}>
 					Visit img page
 					<span className={styles.code}>
-						<Link href="/img">/img page</Link>
+						<Link href="img">/img page</Link>
 					</span>
 				</h2>
 
